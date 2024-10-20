@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"SOIC-14";1;"ATTINY404-SSNR";;;
+2;"C4,C2,C1,C3";"0603C";4;"100n";;;
+3;"R3,R4";"0603R";2;"1k";;;
+4;"K3,K1";"easyC-connector";2;"easyC-SMD";;;
+5;"R6,R8,R7,R5";"0603R";4;"10k";;;
+6;"R1,R2";"0603R";2;"470";;;
+7;"K4";"DSHP03TS-S";1;"DSHP03TS-S";;;
+8;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+9;"U1";"ROTARY_ENCODER";1;"ROTARY_ENCODER";;;
+10;"H3,H4,H2,H1";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+11;"K2";"HEADER-UPDI";1;"HEADER-UPDI";;;
